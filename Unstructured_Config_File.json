@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/UnstructuredData/reviews.json",
+        "sink_folder" : "Landing_Reviews",
+        "sink_file" : "review.json"
+    },
+    {
+         "source_url" : "refs/heads/main/UnstructuredData/social_media.json",
+        "sink_folder" : "Landing_Social_Media",
+        "sink_file" : "social_media.json"
+
+    },
+    {
+        "source_url" : "refs/heads/main/UnstructuredData/web_logs.json",
+        "sink_folder" : "Landing_Web_Logs",
+        "sink_file" : "web_logs.json"
+
+    }
+]
