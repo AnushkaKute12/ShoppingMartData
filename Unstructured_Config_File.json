@@ -1,17 +1,18 @@
 [
   {
-    "source_url": "blob/master/StructuredData/reviews.json",
+    "source_url": "refs/heads/master/StructuredData/reviews.json",
     "sink_folder": "Landing_Reviews",
     "sink_file": "review.json"
   },
   {
-    "source_url": "blob/master/StructuredData/social_media.json",
+    "source_url": "refs/heads/master/StructuredData/social_media.json",
     "sink_folder": "Landing_Social_Media",
     "sink_file": "social_media.json"
   },
   {
-    "source_url": "blob/master/StructuredData/web_logs.json",
+    "source_url": "refs/heads/master/StructuredData/web_logs.json",
     "sink_folder": "Landing_Web_Logs",
     "sink_file": "web_logs.json"
   }
 ]
+
