@@ -1,20 +1,17 @@
 [
-    {
-        "source_url" : "blob/master/StructuredData/Orders_Data.csv",
-        "sink_folder" : "Landing_Orders",
-        "sink_file" : "orders.csv"
-    },
-    {
-         "source_url" : "blob/master/StructuredData/customers.csv",
-        "sink_folder" : "Landing_Customers",
-        "sink_file" : "customers.csv"
-
-    },
-    {
-        "source_url" : "blob/master/StructuredData/products.csv",
-        "sink_folder" : "Landing_Products",
-        "sink_file" : "products.csv"
-
-    }
-
+  {
+    "source_url": "blob/master/StructuredData/Orders_Data.csv",
+    "sink_folder": "Landing_Orders",
+    "sink_file": "orders.csv"
+  },
+  {
+    "source_url": "blob/master/StructuredData/customers.csv",
+    "sink_folder": "Landing_Customers",
+    "sink_file": "customers.csv"
+  },
+  {
+    "source_url": "blob/master/StructuredData/products.csv",
+    "sink_folder": "Landing_Products",
+    "sink_file": "products.csv"
+  }
 ]
